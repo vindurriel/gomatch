@@ -1,4 +1,4 @@
-module github.com/jfilipczyk/gomatch
+module github.com/vindurriel/gomatch
 
 go 1.15
 
